@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Glad to see you here!** <br> The green dots on my [**GitHub** profile](https://github.com/JakeFrostyYT=repositories) represent my journey :running_man: **. Currently I'm working following projects**:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/JakeFrostyYT) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JakeFrostyYT.visitor-badge)](https://github.com/JakeFrostyYT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/JakeFrostyYT) [![Visitors](https://avatars1.githubusercontent.com/u/55770933?s=400&u=fd83608db2bc27f8d04909b789dc6f6d58fd15a0&v=4)](https://github.com/JakeFrostyYT)
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
