@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Glad to see you here!** <br> The green dots on my [**GitHub** profile](https://github.com/JakeFrostyYT=repositories) represent my journey :running_man: **. Currently I'm working following projects**:
+**Glad to see you here!** <br> The green dots on my [**GitHub** profile](https://github.com/JakeFrostyYT?tab=repositories) represent my journey :running_man: **. Currently I'm working following projects**:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/JakeFrostyYT)
 
